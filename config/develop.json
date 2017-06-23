@@ -1,0 +1,4 @@
+{
+  "MySqlServer": "...:...@tcp(127.0.0.1:3306)/...?collation=utf8_general_ci&allowOldPasswords=1",
+  "ServerAddr": "/tmp/content-counter.sock"
+}

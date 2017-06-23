@@ -1,0 +1,18 @@
+[submodule "src/github.com/raoptimus/gserv"]
+	path = src/github.com/raoptimus/gserv
+	url = git@github.com:raoptimus/gserv.git
+[submodule "src/github.com/raoptimus/rlog"]
+	path = src/github.com/raoptimus/rlog
+	url = git@github.com:raoptimus/rlog.git
+[submodule "src/gopkg.in/mgo.v2"]
+	path = src/gopkg.in/mgo.v2
+	url = git@github.com:go-mgo/mgo.git
+[submodule "src/github.com/ziutek/mymysql.git"]
+	path = src/github.com/ziutek/mymysql
+	url = git@github.com:ziutek/mymysql.git
+[submodule "src/github.com/go-sql-driver/mysql"]
+	path = src/github.com/go-sql-driver/mysql
+	url = git@github.com:go-sql-driver/mysql.git
+[submodule "src/github.com/abh/geoip"]
+	path = src/github.com/abh/geoip
+	url = git@github.com:abh/geoip.git
